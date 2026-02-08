@@ -32,7 +32,7 @@ With all required dependencies installed, run the Jupyter notebook from top to b
 
 ## Economic Interpretation (TFP shocks and real GDP)
 
-We see that positive TFP shocks are followed by increases in real per capita GDP under both Fernald and Ford measures. For the Fernald shocks (utilization adjusted), real GDP rises in a hump pattern, peaking around 7.5-10 quarters after the shock, and returning towards baseline. The Ford shocks produce a larger, more persistent increase to GDP, with peaks around 5 and 12.5 quarters post-shock. Overall, the figures support a positive relationship between TFP shocks and short/medium run effects to real GDP.
+We see that positive TFP shocks are followed by increases in real per capita GDP under both Fernald and Ford shock measures. For the Fernald shocks (utilization adjusted), real GDP rises in a hump pattern, peaking around 7.5-10 quarters after the shock, and returning towards baseline by ~17.5 quarters. The Fernald shock peaks at ~0.2 log real per capita GDP, implying a ~0.2% increase to real GDP per capita in that quarter compared to a no-shock path. The Ford shocks produce a larger, more persistent increase to GDP, with peaks around 5 and 12.5 quarters post-shock (at ~0.6 -> ~0.6% increase vs. no-shock path), and sustained above-zero gain through the 20 horizon analysis threshold. Overall, the figures support a positive relationship between TFP shocks and short/medium run effects to real per capita GDP.
 
 ## Setup (using fresh Python install, uv for virtual env mgmt)
 
