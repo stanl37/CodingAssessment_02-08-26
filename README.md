@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Coding exercise for Professors Schmidt and Choukhmane.
+Technical exercise for Professors Schmidt and Choukhmane.
 
 Outline for `workbook.ipynb` is as follows:
 
