@@ -13,7 +13,7 @@ Outline for `workbook.ipynb` is as follows:
     -   Ford TFP
     -   Fernald TFP Shocks
     -   Shiller shock price data
-    -   Check all oads
+    -   Check all loads
 -   Merge Data
 -   Data Processing
     -   Log real-per capita versions
