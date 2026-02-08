@@ -26,6 +26,10 @@ Outline for `workbook.ipynb` is as follows:
 -   Plotting
 -   Economic interpretation (also available below)
 
+## How to run and produce plots
+
+With all required dependencies installed, run the Jupyter notebook from top to bottom. Note my FRED API key is hardcoded within (to fetch FRED data). Plots produced in Plotting section of notebook, with PNGs saved to Output.
+
 ## Economic Interpretation (TFP shocks and real GDP)
 
 We see that positive TFP shocks are followed by increases in real per capita GDP under both Fernald and Ford measures. For the Fernald shocks (utilization adjusted), real GDP rises in a hump pattern, peaking around 7.5-10 quarters after the shock, and returning towards baseline. The Ford shocks produce a larger, more persistent increase to GDP, with peaks around 5 and 12.5 quarters post-shock. Overall, the figures support a positive relationship between TFP shocks and short/medium run effects to real GDP.
